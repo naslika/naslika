@@ -1,5 +1,5 @@
 
-![Header](./github-header-image-name.png)
+![Header](.github-header-banner.png)
 
 # 💫 About Me:
 💻 Ngoding kadang jalan, kadang cuma nambah bug<br>🚀 Masih belajar, error adalah teman<br>❤️ Warna merah warna cinta<br>☕ Powered by kopi & Stack Overflow
